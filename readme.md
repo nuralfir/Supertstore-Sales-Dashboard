@@ -14,7 +14,7 @@ The data used is a public dataset entitled Superstore, where the dataset contain
 
 <h3>Build a Dashboard</h3>
 The dashboard was built using Google's Looker Studio. The dataset files are uploaded into Google Drive so that they can be accessed by Google Sheets, and then can be connected directly into Looker Studio as the main data source in this project.
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/build%20a%20dashboard.png" height="200"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/build%20a%20dashboard.png" height="250"/></a>
 <ol>
   <br><li>Total Sales, Transactions, and Customer by Year</li>
   This metric uses a scorecard feature that explains numbers in a short and easily visible way, making it very suitable for this metric which functions to see the 'big numbers' of the     current conditions that are happening. The scorecard is attached to each variable/dimensions such as Sales, Transaction, Customer and also Profit.
