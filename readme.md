@@ -42,3 +42,5 @@ Some insights found overall (2014-2017) are as follows:
   <li>Regular customers dominate sales so that the profit generated is also higher than corporate and home office customers.</li>
   <li>Standard class is the favorite type of shipping to use, although the average delivery of goods to arrive takes 5 days.</li>
 </ul>
+
+<h4>See more for the dashboard: https://lookerstudio.google.com/s/lxyUr0v_6uM</h4>
