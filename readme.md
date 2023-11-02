@@ -14,25 +14,24 @@ The data used is a public dataset entitled Superstore, where the dataset contain
 
 <h3>Build a Dashboard</h3>
 The dashboard was built using Google's Looker Studio. The dataset files are uploaded into Google Drive so that they can be accessed by Google Sheets, and then can be connected directly into Looker Studio as the main data source in this project.
-<br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/bc1c0f9f-0b16-4466-a949-b1067f5d53f3)
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/build%20a%20dashboard.png" height="200"/></a>
 <ol>
-  <li>Total Sales, Transactions, and Customer by Year</li>
+  <br><li>Total Sales, Transactions, and Customer by Year</li>
   This metric uses a scorecard feature that explains numbers in a short and easily visible way, making it very suitable for this metric which functions to see the 'big numbers' of the     current conditions that are happening. The scorecard is attached to each variable/dimensions such as Sales, Transaction, Customer and also Profit.
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/8abf6bb3-9474-4095-8b8b-ab43d687a33f)
-  <li>Sales Growth</li>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/total%20sales%2C%20transaction.png" height="150"/></a>
+  <br><li>Sales Growth</li>
   This metric uses a line chart because it is suitable for seeing the growth/change of information based on a time line. The growth of sales from 2014 to 2017 is easily seen by this       chart, so we know the highest or lowest point of sales in this 4-year timespan.
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/19276811-7707-46e1-a483-aedf48b9100f)
-  <li>Branch Sales Performance</li>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/sales%20growth.png" height="300"/></a>
+  <br><li>Branch Sales Performance</li>
   In this metric, the graphs used consist of pie charts, tables, scorecards and vertical bar charts. Pie charts serve to determine the composition of sales of products when viewed from    each region and tables that contain what items are most purchased by customers. Then the scorecard which functions to display the average duration of delivery for each type of           shipping that has been carried out by this Superstore. For the vertical bar chart, this graph serves to find out how many sales have been made when viewed based on the use of the type   of shipping chosen by the customer.
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/2baf9473-2561-41f9-a4c7-ddb871b2a10f)
-  <li>Profit Sales</li>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/brach%20sales.png" height="700"/></a>
+  <br><li>Profit Sales</li>
   The graphs used in this metric are treemap and vertical bar chart. Treemap is used to see the composition based on the color that has been determined by region. The darker the color,    the region has the highest profit. Vertical bar chart serves to find out how much profit is generated based on the type of customer segment.
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/a0d6bae2-94de-4eaa-9128-58ff8f4e4797)
-  <li>Dashboard Features</li>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/profit%20sales.png" height="400"/></a>
+  <br><li>Dashboard Features</li>
   This feature in the dashboard uses data filters based on date and region. We can sort out what data we want to display based on the day, month, or year, as well as which region. Also,   each graph can display tooltips that make it easier for users to see information briefly just by pointing their mouse.
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/c382fbc1-c733-4736-9dd0-25315f5aaec4)
-  <br>![image](https://github.com/nuralfir/Supertstore-Sales-Dashboard/assets/109499310/cdb97cd4-3773-439c-b824-0c020aa77953)
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/fitur%20dashboard1.png" height="150"/></a><br>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/nuralfir/Supertstore-Sales-Dashboard/blob/2f1bf715abca77d76c92403f09b0e3384343e94f/assets/fitur%20dashboard2.png" height="600"/></a>
 </ol>
 
 <h3>Findings & Insights</h3>
